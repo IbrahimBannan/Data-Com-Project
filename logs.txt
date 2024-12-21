@@ -1,0 +1,4 @@
+Game started: abd vs ned
+abd chose P, ned chose R: abd
+abd chose P, ned chose S: ned
+Game ended: abd vs ned
